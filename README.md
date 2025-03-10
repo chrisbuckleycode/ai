@@ -1,1 +1,6 @@
-# ai
+# AI
+
+Coming soon...
+
+- Prompts
+- and more...
